@@ -30,3 +30,8 @@
   .issues li {
     list-style-image: url("x.png");
   }
+  .ochako {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
