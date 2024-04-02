@@ -20,7 +20,6 @@
     margin-left: auto;
     margin-right: auto;
   }
-  .note {
-    font-size: smaller;
-    padding-bottom: 10px;
-    text-align: left;
+  .abbreviations li {
+    list-style-image: url("crochethook.png");
+  }
